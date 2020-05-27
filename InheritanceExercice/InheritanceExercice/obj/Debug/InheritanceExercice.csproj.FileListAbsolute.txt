@@ -1,0 +1,7 @@
+C:\Users\diego\Source\Repos\InheritanceExercice\InheritanceExercice\bin\Debug\InheritanceExercice.exe.config
+C:\Users\diego\Source\Repos\InheritanceExercice\InheritanceExercice\bin\Debug\InheritanceExercice.exe
+C:\Users\diego\Source\Repos\InheritanceExercice\InheritanceExercice\bin\Debug\InheritanceExercice.pdb
+C:\Users\diego\Source\Repos\InheritanceExercice\InheritanceExercice\obj\Debug\InheritanceExercice.csprojAssemblyReference.cache
+C:\Users\diego\Source\Repos\InheritanceExercice\InheritanceExercice\obj\Debug\InheritanceExercice.csproj.CoreCompileInputs.cache
+C:\Users\diego\Source\Repos\InheritanceExercice\InheritanceExercice\obj\Debug\InheritanceExercice.exe
+C:\Users\diego\Source\Repos\InheritanceExercice\InheritanceExercice\obj\Debug\InheritanceExercice.pdb
